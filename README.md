@@ -6,7 +6,7 @@ I am a Bina Nusantara University student majoring in Game Application and Techno
 <p>
   Wasd
 </p>
-<a url="github.com/bibyru/Little-Grabbers">See project here.</a>
+<a href="github.com/bibyru/Little-Grabbers">See project here.</a>
 <b></b>
 
 #### Knightly Pong
