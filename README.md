@@ -1,7 +1,8 @@
-# Greetings 👋
-I am a Bina Nusantara University student majoring in Game Application and Technology in the department of Computer Science.
+<h1>Greetings 👋</h1>
+<p>I am Ruby, currently a Bina Nusantara University student majoring in Game Application and Technology in the department of Computer Science.</p>
 
-# My Game Projects 🎮
+<h1>My Game Projects 🎮</h1>
+<p>*More information about these projects <a href="https://docs.google.com/document/d/15T5mjKQUKTfBoleKZaQEQZoO3M8OazKiKoCYEk4fU5k/edit?usp=sharing">here</a>.</p>
 <div align="center">
   <table>
     <tr>
@@ -16,7 +17,7 @@ I am a Bina Nusantara University student majoring in Game Application and Techno
         <h2 align="center">Knightly Pong</h2>
         <div align="center">
           <img src="Gifs/KnightlyPong.gif"></img>
-          <p>Trash Grabbers is a game where players work cooperatively as trash grabbers in a corporation creatively named The Corporation. Players must use wits (and corporate tools) to finish their job quickly and efficiently!</p>
+          <p>Knightly Pong is a pong game with 2 players where they hit each other’s castle to gain points.</p>
         </div>
       </td>
     <tr>
