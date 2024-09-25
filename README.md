@@ -1,8 +1,11 @@
 <h1>Greetings 👋</h1>
-<p>I am Ruby, currently a Bina Nusantara University student majoring in Game Application and Technology in the department of Computer Science.</p>
-
+<ul>
+  <li>Hello there! My name is Ruby.</li>
+  <li>I am currently a Bina Nusantara University student majoring in Game Application and Technology in the department of Computer Science.</li>
+  <li>I can program in several languages: C, C#, Python, and GDScript.</li>
+</ul>
 <h1>My Game Projects 🎮</h1>
-<p>*More information about these projects <a href="https://docs.google.com/document/d/15T5mjKQUKTfBoleKZaQEQZoO3M8OazKiKoCYEk4fU5k/edit?usp=sharing">here</a>.</p>
+<p><i>*More information about these projects <a href="https://docs.google.com/document/d/15T5mjKQUKTfBoleKZaQEQZoO3M8OazKiKoCYEk4fU5k/edit?usp=sharing">here</a>.</i></p>
 <div align="center">
   <table>
     <tr>
