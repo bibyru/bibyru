@@ -3,11 +3,16 @@ I am a Bina Nusantara University student majoring in Game Application and Techno
 
 ## My Game Projects 🎮
 #### Trash Grabbers
-<p>Wasd</p>
+<p>
+  Wasd
+</p>
+<a url="github.com/bibyru/Little-Grabbers">See project here.</a>
 <b></b>
 
 #### Knightly Pong
-<p>Wasd</p>
+<p>
+  Wasd
+</p>
 <b></b>
 
 <!--
