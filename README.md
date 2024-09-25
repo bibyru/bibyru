@@ -2,18 +2,15 @@
 I am a Bina Nusantara University student majoring in Game Application and Technology in the department of Computer Science.
 
 ## My Game Projects 🎮
-#### Trash Grabbers
-<p>
-  Wasd
-</p>
-Download [here](https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=sharing).
-<b></b>
-
-#### Knightly Pong
-<p>
-  Wasd
-</p>
-<b></b>
+<details>
+  #### Trash Grabbers
+  <p>
+    Wasd.
+    Wasd but wasdqert.
+    Download [here](https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=sharing).
+  </p>
+  <b></b>
+</details>
 
 <!--
 **bibyru/bibyru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
