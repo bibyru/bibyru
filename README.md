@@ -3,10 +3,10 @@ I am a Bina Nusantara University student majoring in Game Application and Techno
 
 ## My Game Projects 🎮
 - Trash Grabbers
-  Wasd
+Wasd
 
 - Knightly Pong
-  Wasd
+Wasd
 
 <!--
 **bibyru/bibyru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
