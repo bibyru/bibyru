@@ -2,11 +2,11 @@
 I am a Bina Nusantara University student majoring in Game Application and Technology in the department of Computer Science.
 
 ## My Game Projects 🎮
-####Trash Grabbers
+#### Trash Grabbers
 <p>Wasd</p>
 <b></b>
 
-####Knightly Pong
+#### Knightly Pong
 <p>Wasd</p>
 <b></b>
 
