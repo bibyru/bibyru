@@ -6,6 +6,8 @@ I am a Bina Nusantara University student majoring in Game Application and Techno
 <p>
   Wasd
 </p>
+Download [here](https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=sharing).
+
 [ Download here. ]( https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=sharing )
 [See project here.](https://github.com/bibyru/Little-Grabbers/)
 <b></b>
