@@ -5,7 +5,7 @@ I am a Bina Nusantara University student majoring in Game Application and Techno
 <details>
   <summary> Trash Grabbers </summary>
   <p>
-    Wasd. Wasd but wasdqert. Download [here](https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=sharing).
+    Wasd. Wasd but wasdqert. Download [here](https://github.com/bibyru/Little-Grabbers/).
   </p>
   <b></b>
 </details>
