@@ -3,11 +3,9 @@ I am a Bina Nusantara University student majoring in Game Application and Techno
 
 ## My Game Projects 🎮
 <details>
-  #### Trash Grabbers
+  <summary> Trash Grabbers </summary>
   <p>
-    Wasd.
-    Wasd but wasdqert.
-    Download [here](https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=sharing).
+    Wasd. Wasd but wasdqert. Download [here](https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=sharing).
   </p>
   <b></b>
 </details>
