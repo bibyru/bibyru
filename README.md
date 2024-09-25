@@ -3,6 +3,7 @@
   <li>Hello there! My name is Ruby.</li>
   <li>I am currently a Bina Nusantara University student majoring in Game Application and Technology in the department of Computer Science.</li>
   <li>I can program in several languages: C, C#, Python, and GDScript.</li>
+  <li>You can contact me via e-mail (rubyrebyru@gmail.com) or Whatsapp (081513080678).</li>
 </ul>
 <h1>My Game Projects 🎮</h1>
 <p><i>*More information about these projects <a href="https://docs.google.com/document/d/15T5mjKQUKTfBoleKZaQEQZoO3M8OazKiKoCYEk4fU5k/edit?usp=sharing">here</a>.</i></p>
