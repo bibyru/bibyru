@@ -6,7 +6,6 @@
   <li>You can contact me via e-mail (rubyrebyru@gmail.com) or Whatsapp (081513080678).</li>
 </ul>
 <h1>My Game Projects 🎮</h1>
-<p><i>*More information about these projects <a href="https://docs.google.com/document/d/15T5mjKQUKTfBoleKZaQEQZoO3M8OazKiKoCYEk4fU5k/edit?usp=sharing">here</a>.</i></p>
 <div align="center">
   <table>
     <tr>
@@ -26,12 +25,12 @@
       </td>
     <tr>
       <td width="50%" valign="top">
-        <p>See project <a href="https://github.com/bibyru/Knightly-Pong/">here</a>.</p>
-        <p>Download <a href="https://drive.google.com/file/d/1W3W-ZWMmpdBEkbuIAuTjcgoKlrYEAD4J/view?usp=drive_link">here</a>.</p>
-      </td>
-      <td width="50%" valign="top">
         <p>See project <a href="https://github.com/bibyru/Little-Grabbers/">here</a>.</p>
         <p>Download <a href="https://drive.google.com/file/d/1bzI4sNVcyxF5MP4SlaDXbE8GufNtKRNU/view?usp=drive_link">here</a>.</p>
+      </td>
+      <td width="50%" valign="top">
+        <p>See project <a href="https://github.com/bibyru/Knightly-Pong/">here</a>.</p>
+        <p>Download <a href="https://drive.google.com/file/d/1W3W-ZWMmpdBEkbuIAuTjcgoKlrYEAD4J/view?usp=drive_link">here</a>.</p>
       </td>
     </tr>
     <tr>
