@@ -29,8 +29,8 @@
         <p>Download <a href="https://github.com/bibyru/Little-Grabbers/releases/">here</a>.</p>
       </td>
       <td width="50%" valign="top">
-        <p>See project <a href="https://docs.google.com/document/d/15T5mjKQUKTfBoleKZaQEQZoO3M8OazKiKoCYEk4fU5k/edit?tab=t.0#bookmark=id.nzmrzw2l2s6z">here</a>.</p>
-        <p>Download <a href="https://drive.google.com/file/d/1OtwYoM3MMQ7o1h46ogavInZ71eAj2hpd/view?usp=drive_link">here</a>.</p>
+        <p>See project <a href="https://github.com/bibyru/Not-Ready/">here</a>.</p>
+        <p>Download <a href="https://github.com/bibyru/Not-Ready/releases/">here</a>.</p>
       </td>
     </tr>
     <tr>
@@ -51,7 +51,7 @@
     </tr>
       <td width="50%" valign="top">
         <p>See project <a href="https://github.com/bibyru/Knightly-Pong/">here</a>.</p>
-        <p>Download <a href="https://drive.google.com/file/d/1W3W-ZWMmpdBEkbuIAuTjcgoKlrYEAD4J/view?usp=drive_link">here</a>.</p>
+        <p>Download <a href="https://github.com/bibyru/Knightly-Pong/releases/">here</a>.</p>
       </td>
       <td width="50%" valign="top">
         <p>See project <a href="https://github.com/bibyru/map-me/">here</a>.</p>
@@ -79,7 +79,7 @@
         <p>Download <a href="https://drive.google.com/file/d/1YzoLHeXPfgZBqnKLEwyi3CKiMjcV_ZuE/view?usp=drive_link">here</a>.</p>
       </td>
       <td width="50%" valign="top">
-        <p>See project <a href="https://docs.google.com/document/d/15T5mjKQUKTfBoleKZaQEQZoO3M8OazKiKoCYEk4fU5k/edit?tab=t.0#bookmark=id.h73u18qrbvmx">here</a>.</p>
+        <p>See project <a href="https://github.com/bibyru/Fruit-Hunter/">here</a>.</p>
         <p>Download <a href="https://drive.google.com/file/d/19ChyNNeD2Bx9-849sNL_KdqG6j2dKO1x/view?usp=drive_link">here</a>.</p>
       </td>
     </tr>
