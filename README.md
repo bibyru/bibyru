@@ -60,10 +60,10 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h2 align="center">Puzzlegenic Beatings</h2>
+        <h2 align="center">Run2Me</h2>
         <div align="center">
-          <img src="Gifs/PuzzlegenicBeatings.gif"></img>
-          <p>Puzzlegenic Beatings is a 2D beat-em-up puzzle serious game. Follow Pam’s story as she finds a mysterious but labeled puzzle bag… WITHOUT A PICTURE! How will she even start to finish the puzzle?! And so, she goes to the place with the same name as the puzzle. Play as Pam as she beats up thugs at the tourist destination messing the place up, then finishes the puzzle.</p>
+          <img src="Gifs/Run2Me.gif"></img>
+          <p>Run2Me is a game where the player tries getting over their personal best time and score by surviving the longest! The visual might be cute and wholesome, but the platforming... See it for yourself!</p>
         </div>
       </td>
       <td width="50%" valign="top">
@@ -75,8 +75,8 @@
       </td>
     </tr>
       <td width="50%" valign="top">
-        <p>See project <a href="https://github.com/bibyru/Puzzlegenic-Beatings/">here</a>.</p>
-        <p>Download <a href="https://drive.google.com/file/d/1YzoLHeXPfgZBqnKLEwyi3CKiMjcV_ZuE/view?usp=drive_link">here</a>.</p>
+        <p>See project <a href="https://github.com/bibyru/Run2Me_gd/">here</a>.</p>
+        <p>Download <a href="https://github.com/bibyru/Run2Me_gd/releases">here</a>.</p>
       </td>
       <td width="50%" valign="top">
         <p>See project <a href="https://github.com/bibyru/Fruit-Hunter/">here</a>.</p>
